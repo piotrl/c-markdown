@@ -1,8 +1,8 @@
 #include <stdlib.h>
 
-#include "libs/config.h"
-#include "libs/stack.h"
-#include "libs/markdown.h"
+#include "config.h"
+#include "stack.h"
+#include "markdown.h"
 
 int main(int argc, char const *argv[])
 {

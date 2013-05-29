@@ -1,4 +1,4 @@
-#include "libs/stack.h"
+#include "stack.h"
 
 char stack[1000] = {'\0'};
 

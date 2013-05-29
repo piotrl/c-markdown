@@ -1,6 +1,6 @@
-#include "libs/markdown.h"
-#include "libs/stack.h"
-#include "libs/config.h"
+#include "markdown.h"
+#include "stack.h"
+#include "config.h"
 
 int isSingleton(char c, int len)
 {
