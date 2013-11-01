@@ -36,3 +36,6 @@ If you don't specify the _output-file_, program will parse everything to stdout 
     * No 1
     * Next please!
     * Here I am!
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/piotrl/c-markdown/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
